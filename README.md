@@ -23,11 +23,11 @@ python parallel.py
 
 ### Linear Execution
 
-- **Execution Time** : 0.4346 seconds
+- **Execution Time** : 1.4346 seconds
 
 ### Parallel Execution
 
-- **Execution Time** : 0.3547 seconds
+- **Execution Time** : 1.23547 seconds
 
 ---
 ## **Acknowledgments**
