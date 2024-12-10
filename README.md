@@ -1,1 +1,1 @@
-## Parallel-Distributed-Computing-Assignment
+## Parallel-Distributed-Computing-Assignment: Linear vs Parallel Approach
